@@ -1,3 +1,5 @@
 i'm learning Git branches and pull request
 
-I can create branches, write tests, and open pull requests
+I can create branches write tests and open pull requests
+
+
