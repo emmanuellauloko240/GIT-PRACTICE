@@ -1,3 +1,4 @@
 i'm learning Git branches and pull request
 
-I can create branches, commit changes, and open pull requests
+
+I can create branches, resolve merge conflicts, and open pull request
